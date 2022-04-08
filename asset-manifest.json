@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Login-Authentication/static/css/main.48eef1c5.chunk.css",
+    "main.js": "/Login-Authentication/static/js/main.7f8b2aa2.chunk.js",
+    "main.js.map": "/Login-Authentication/static/js/main.7f8b2aa2.chunk.js.map",
+    "runtime-main.js": "/Login-Authentication/static/js/runtime-main.f31fe84d.js",
+    "runtime-main.js.map": "/Login-Authentication/static/js/runtime-main.f31fe84d.js.map",
+    "static/js/2.0f0966cc.chunk.js": "/Login-Authentication/static/js/2.0f0966cc.chunk.js",
+    "static/js/2.0f0966cc.chunk.js.map": "/Login-Authentication/static/js/2.0f0966cc.chunk.js.map",
+    "index.html": "/Login-Authentication/index.html",
+    "static/css/main.48eef1c5.chunk.css.map": "/Login-Authentication/static/css/main.48eef1c5.chunk.css.map",
+    "static/js/2.0f0966cc.chunk.js.LICENSE.txt": "/Login-Authentication/static/js/2.0f0966cc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f31fe84d.js",
+    "static/js/2.0f0966cc.chunk.js",
+    "static/css/main.48eef1c5.chunk.css",
+    "static/js/main.7f8b2aa2.chunk.js"
+  ]
+}
